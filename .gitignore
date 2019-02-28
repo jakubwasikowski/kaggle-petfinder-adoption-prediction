@@ -1,1 +1,6 @@
-src/predictions 
+src/predictions
+input
+src/IS_LOCAL
+env 
+.ipynb_checkpoints
+.idea
